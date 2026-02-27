@@ -1,0 +1,6 @@
+Language,Query,GitHubUrl,Relevance,Notes
+Python,sort a list,https://github.com/owner/repo1/blob/abc123/src/module.py#L1-L2,2,
+Python,sort a list,https://github.com/owner/repo1/blob/abc123/src/module.py#L4-L5,0,
+Python,sort a list,https://github.com/owner/repo2/blob/def456/lib/utils.py#L4-L5,1,
+Python,read a file,https://github.com/owner/repo3/blob/ghi789/main.py#L1-L2,3,
+Go,sort a list,https://github.com/other/go-repo/blob/aaa/sort.go#L1-L10,2,
